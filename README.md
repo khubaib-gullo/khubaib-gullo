@@ -9,7 +9,7 @@ I am a passionate Python developer with a solid foundation in software engineeri
 - **Languages:** Python (Proficient), HTML5, CSS3
 - **Tools:** PyCharm, Jupyter Notebook, Google Colab
 - **Python Libraries:** Pandas, NumPy, Matplotlib, Plotly, Scikit-learn, Seaborn, Turtle
-- **Web Development:** Flask, HTML5, CSS3, Bootstrap 4
+- **Web Development:** Django, Flask, FastApi, HTML5, CSS3, Bootstrap 4
 - **Database:** SQLite, PostgreSQL
 - **Web Scraping:** BeautifulSoup, Selenium WebDriver, Requests
 - **GUI Development:** Tkinter
@@ -38,7 +38,7 @@ Here are some notable projects I've worked on:
 - Stock News Monitoring
 - Habit Tracking
 - Exercise Tracking with Python and Google Sheets
-- CAPSTONE Project: Cheap Flight Finder
+- Cheap Flight Finder
 - Personal Website (simple HTML)
 - Personal Website (with tables and forms)
 - Personal Website (with simple CSS)
