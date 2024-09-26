@@ -20,48 +20,14 @@ I am a passionate Python developer with a solid foundation in software engineeri
 ## Projects
 Here are some notable projects I've worked on:
 
-- Coffee Machine
-- Quiz Game
-- The Hirst Painting
-- Etch a Sketch and Turtle Racing Game
-- Snake Game using Tkinter
-- Pong Game
-- Turtle Crossing Game Capstone
-- Mail Merge Project
-- Pomodoro Timer
-- Password Manager
-- Flash Card Program
-- Automated Happy Birthday Email
-- ISS Overhead Notifier Project
-- The Quizzler App (GUI Quiz App)
-- Rain Alert App
-- Stock News Monitoring
-- Habit Tracking
-- Exercise Tracking with Python and Google Sheets
-- Cheap Flight Finder
-- Personal Website (simple HTML)
-- Personal Website (with tables and forms)
-- Personal Website (with simple CSS)
-- Personal Website (Stylised with Advanced CSS)
-- Scrape a List of 100 Greatest Movies
 - Spotify Playlist Musical Time Machine
 - Amazon Price Tracker
 - Cookie Game Playing Bot
 - LinkedIn Automated Job Applications with Selenium
-- Auto Dating Swiping Bot
 - Twitter Bot
 - Instagram Follower Bot
-- CAPSTONE Project: Data Entry Job Automation
+- Data Entry Job Automation
 - Web Development with Flask
-- HTML & URL Parsing in Flask and the Higher Lower Game
-- Name Card Website Template
-- Templating with Jinja on Flask Apps
-- Startup Website with Bootstrap
-- POST Requests with Flask and HTML Forms
-- Advanced Forms with Flask-WTForms
-- Coffee and Wifi Project
-- Virtual Bookshelf
-- Top 10 Movies Website
 - Build an API with RESTful Routing
 - Authentication with Flask
 - Git, Github, and Version Control
