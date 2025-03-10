@@ -38,7 +38,7 @@ Here are some notable projects I've worked on:
 ](https://www.googleadservices.com/pagead/aclk?sa=L&ai=DChcSEwjj7oevgvqGAxUNqWgJHWqpDA0YABAAGgJ3Zg&ase=2&gclid=CjwKCAjw-O6zBhASEiwAOHeGxT9GIaaOjj6mN_PC7cjCElW6IYOyhO6OFLUQZW3kWx9XcPXKwcvPBRoCy5wQAvD_BwE&ohost=www.google.com&cid=CAESVuD2Kz1zx1k8y8fiAMNpWTMF_XEYad-rojoZSeEqKiGe6KF57-29V_jTfwHrp-zSMW9QnigH_xPXYXCOte64ABsGox4QUZzw-DxIDvNlqP7M_4GDpWB7&sig=AOD64_3gQEXUAbNuZ7AhB1u3TzRF5nlSRA&q&nis=4&adurl&ved=2ahUKEwj5moKvgvqGAxUKwAIHHTMfBZAQ0Qx6BAgIEAE)
 
 ## Get in Touch
-- Email: khubaibm435@gmail.com
+- Email: khubaibgullo377@gmail.com
 
 Feel free to reach out to discuss collaborations, job opportunities.
 
