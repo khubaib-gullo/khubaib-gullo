@@ -27,6 +27,6 @@ I’m passionate about creating applications that solve real-world problems. Cur
 - Exploring **microservices** with Node.js  
 
 ## 📫 Get in Touch
-- Email: **gullokhubaibgmail.com**  
+- Email: **gullokhubaib@gmail.com**  
 
 ---
