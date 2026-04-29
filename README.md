@@ -1,6 +1,6 @@
-### 🚀 Muhammad Khubaib | Full Stack AI Engineer
+### Muhammad Khubaib 
 
-**MERN Stack Developer** specialized in building scalable, real-time applications and AI-integrated systems.
+**MERN Stack Developer** 
 
 ---
 
